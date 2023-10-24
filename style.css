@@ -180,6 +180,13 @@ td, th {
 	margin: 0 auto;
 }
 
+.soja-fotos {
+	padding: 3em 0;
+	background: #FEFEFE;
+	width: 940px;
+	margin: 0 auto;
+}
+
 .arroz-fotos {
 	padding: 3em 0;
 	background: #FEFEFE;
@@ -215,6 +222,12 @@ td, th {
 
 .info {
 	width: 250px;
+	float: left;
+	margin: 0 20px 20px 0;
+}
+
+.info-soja {
+	width: 180px;
 	float: left;
 	margin: 0 20px 20px 0;
 }
